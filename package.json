@@ -1,0 +1,11 @@
+{
+  "name": "button-component-master",
+  "version": "1.0.0",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "start": "surge" 
+  },
+  "author": "adrian1lara",
+  "license": "ISC"
+}
